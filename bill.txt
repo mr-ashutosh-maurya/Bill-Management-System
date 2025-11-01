@@ -1,0 +1,22 @@
+
+
+		 GLOBAL GENERAL STRORE
+		---------------------------
+
+Customer Name: Ashutosh                  2025-11-01 19:11:32
+Customer Address: Noida
+-----------------------------------------------------------
+| ID | Name             | Price  | Quantity | Subtotal     |
+-----------------------------------------------------------
+|   1 |           Apple |    200 |        3 |          600 |
+|   2 |          Grapes |    300 |        2 |          600 |
+-----------------------------------------------------------
+Discount: 240
+Tax: 96
+Total: 1056
+
+
+	 Thank you for shopping with us.
+	 Visit Again!!
+
+
